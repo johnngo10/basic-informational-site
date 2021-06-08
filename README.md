@@ -2,7 +2,7 @@
 
 A very basic website that was built with Node.js
 
-- [Live Demo](http://xuanngo.com/mint-signup-page/)
+- [Live Demo](https://basic-informational-site.xuanngo.repl.co)
 
 ## Built With
 
